@@ -1,7 +1,7 @@
 # U-Net-based Lung Thickness Map for Pixel-level Lung Volume Estimation of Chest X-rays
 
 Code to the paper: "U-Net-based Lung Thickness Map for Pixel-level Lung Volume Estimation of Chest X-rays."
-
+https://arxiv.org/abs/2110.12509
 ## Getting Started
 
 ### Dependencies:
